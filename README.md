@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&center=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Raj+Kamal!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=30&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Raj+Kamal!" alt="Typing SVG" /></a>
 <h3 align="center">I'm Currently Working on My Skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-kamal-io&label=Profile%20views&color=0e75b6&style=flat" alt="raj-kamal-io" /> </p>
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@rajkamal914230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rajkamal914230" height="30" width="40" /></a>
-<a href="https://linkedin.com/raj-kamal-89ba51275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-kamal-89ba51275/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raj-kamal-89ba51275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-kamal-89ba51275/" height="30" width="40" /></a>
 <a href="https://instagram.com/raj_.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_.io" height="30" width="40" /></a>
 <a href="https://discord.gg/deep_91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="deep_91" height="30" width="40" /></a>
 </p>
